@@ -1,0 +1,15 @@
+========================================================================================
+FINAL 10 FICO BUCKETS – LOWER RATING = BETTER CREDIT (PERFECT MONOTONIC PD)
+========================================================================================
+Rating 10 | FICO 408–567 | Loans   1238 | Defaults  581 | PD 46.93%
+Rating  9 | FICO 567–592 | Loans    983 | Defaults  287 | PD 29.20%
+Rating  8 | FICO 592–610 | Loans    969 | Defaults  233 | PD 24.05%
+Rating  7 | FICO 610–626 | Loans    996 | Defaults  161 | PD 16.16%
+Rating  6 | FICO 626–641 | Loans    979 | Defaults  177 | PD 18.08%
+Rating  5 | FICO 641–656 | Loans    994 | Defaults  120 | PD 12.07%
+Rating  4 | FICO 656–672 | Loans   1000 | Defaults  111 | PD 11.10%
+Rating  3 | FICO 672–692 | Loans   1000 | Defaults   87 | PD  8.70%
+Rating  2 | FICO 692–719 | Loans    976 | Defaults   68 | PD  6.97%
+Rating  1 | FICO 719–850 | Loans    865 | Defaults   26 | PD  3.01%
+
+SUCCESS! FICO_RATING_MAP.csv created – give to Charlie NOW!

@@ -1,7 +1,7 @@
 # JPMorgan Chase – Production FICO PD Rating Engine
 **Credit Risk Modeling | Forage Task 4**
 **Log-Likelihood + Dynamic Programming Quantization**
-![JPMorgan Forage Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/JPMorgan%20Chase/NPDe7VnnnkF9HKc2Y_JPMorgan%20Chase_YourName_2025-11-06.pdf)
+![JPMorgan Forage Certificate]([https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/JPMorgan%20Chase/NPDe7VnnnkF9HKc2Y_JPMorgan%20Chase_YourName_2025-11-06.pdf](https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/bWqaecPDbYAwSDqJy_Sj7temL583QAYpHXD_68ff7444825c2b17104e5ee7_1762412516544_completion_certificate.pdf))
 
 ### Achieved Perfect Monotonic PD: 46.93% → 3.01% across 10 buckets
 **Delivered `FICO_RATING_MAP.csv` ready for Charlie’s categorical ML model**

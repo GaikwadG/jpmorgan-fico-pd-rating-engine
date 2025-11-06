@@ -2,7 +2,7 @@
 **Credit Risk Modeling | Forage Task 4**
 **Log-Likelihood + Dynamic Programming Quantization**
 ### 🏅 Certificate
-![JP Morgan Job Simulation Certificate] (https://github.com/GaikwadG/jpmorgan-fico-pd-rating-engine/blob/main/Certificates%20/%20JP%20Morgan%20Quantitative%20Research%20Job%20Simulation.pdf)
+![JP Morgan Job Simulation Certificate] ([https://github.com/GaikwadG/jpmorgan-fico-pd-rating-engine/blob/main/Certificates%20/%20JP%20Morgan%20Quantitative%20Research%20Job%20Simulation.pd](https://github.com/GaikwadG/jpmorgan-fico-pd-rating-engine/blob/main/Certificates/JP%20Morgan%20Job%20Simulation.jpg)
 
 
 ### Achieved Perfect Monotonic PD: 46.93% → 3.01% across 10 buckets

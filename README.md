@@ -3,7 +3,7 @@
 **Log-Likelihood + Dynamic Programming Quantization**
 ### 🏅 Certificate
 ### 🏅 Certificate  
-**[📄 View JP Morgan Job Simulation Certificate](Certificates/JP%20Morgan%20Quantitative%20Research%20Job%20Simulation.pdf)**
+**[📄 View JP Morgan Job Simulation Certificate]([Certificates/JP%20Morgan%20Quantitative%20Research%20Job%20Simulation.pdf](https://github.com/GaikwadG/jpmorgan-fico-pd-rating-engine/blob/main/Certificates/JP%20Morgan%20Job%20Simulation.jpg))**
 
 
 
